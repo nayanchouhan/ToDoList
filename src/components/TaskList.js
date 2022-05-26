@@ -1,5 +1,5 @@
 import React from 'react'
-//...
+
 const TaskList = ({tasks,task,handleDelete,handleUpdate}) => {
   return (
     <ul className="tasks">
